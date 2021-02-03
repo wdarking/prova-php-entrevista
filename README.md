@@ -1,3 +1,7 @@
+# Demonstração da Solução
+
+![](https://s2.gifyu.com/images/Peek-2021-02-03-12-00.gif)
+
 # Teste de PHP
 ##### Objetivo
 Criar um Crud simples, totalmente desenvolvido em PHP, sem a utilização de frameworks, onde será possível Criar/Editar/Excluir/Listar usuários. O sistema também deve possuir a possibilidade de vincular/desvincular várias cores ao usuário.
